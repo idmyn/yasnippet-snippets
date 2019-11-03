@@ -1,0 +1,5 @@
+#key : ds
+#name : expands to document.querySelector("")
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+document.querySelector("$0")

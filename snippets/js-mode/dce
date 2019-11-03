@@ -1,0 +1,5 @@
+#key : dce
+#name : expands to document.createElement("")
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+document.createElement("$0")

@@ -1,0 +1,5 @@
+#key : fpid
+#name : expands to find(params[:id])
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+find(params[:id])

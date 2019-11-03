@@ -1,0 +1,6 @@
+#key : ppd
+#name : add pry and pry-doc in Gemfile
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+gem "pry"
+gem "pry-doc"

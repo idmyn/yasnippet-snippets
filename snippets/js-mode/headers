@@ -1,0 +1,8 @@
+#key : headers
+#name : headers for making http requests expecting JSON response
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+headers: {
+  "Content-Type": "application/json",
+  "Accept": "application/json"
+}

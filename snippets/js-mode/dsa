@@ -1,0 +1,5 @@
+#key : dsa
+#name : expands to document.querySelectorAll("")
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+document.querySelectorAll("$0")

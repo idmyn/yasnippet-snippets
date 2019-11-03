@@ -1,0 +1,7 @@
+#key : srce
+#name : src block for emacs-lisp
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+#+BEGIN_SRC emacs-lisp
+  $0
+#+END_SRC

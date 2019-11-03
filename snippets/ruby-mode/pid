@@ -1,0 +1,5 @@
+#key : pid
+#name : expands to params[:id]
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+params[:id]
