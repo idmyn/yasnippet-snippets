@@ -33,7 +33,7 @@
 
 (defconst yasnippet-snippets-dir
   (expand-file-name
-   "snippets"
+   "../../repos/yasnippet-snippets/snippets"
    (file-name-directory
     ;; Copied from ‘f-this-file’ from f.el.
     (cond
