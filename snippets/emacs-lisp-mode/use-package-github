@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Daniel Mynors
+# name: use-package with reference to specific github repo
+# key: upg
+# --
+(use-package ${1:package-name}
+:straight (${2:package-name} :host github :repo "$0"))
