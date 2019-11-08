@@ -1,0 +1,7 @@
+#key : srcj
+#name : src block for javascript
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+#+BEGIN_SRC javascript
+  $0
+#+END_SRC

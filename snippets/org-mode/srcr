@@ -1,0 +1,7 @@
+#key : srcr
+#name : src block for ruby
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+#+BEGIN_SRC ruby
+  $0
+#+END_SRC
