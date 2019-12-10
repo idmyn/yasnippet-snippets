@@ -1,0 +1,6 @@
+#key : rdt
+#name : snippet to enable redux devtools
+#contributor: David Mynors <hello@davidmyno.rs>
+# --
+
+window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()

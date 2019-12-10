@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: David Mynors <hello@davidmyno.rs>
+# name: className
+# key: cn
+# --
+
+className="$0"
