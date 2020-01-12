@@ -3,5 +3,4 @@
 # name: use-package
 # key: up
 # --
-(use-package ${1:package-name}
-:straight t$0)
+(use-package $0)
