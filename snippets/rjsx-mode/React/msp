@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: David Mynors <hello@davidmyno.rs>
+# name: mapStateToProps
+# key: msp
+# --
+
+const mapStateToProps = state => ({
+  $0
+})

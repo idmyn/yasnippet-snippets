@@ -1,16 +1,17 @@
 # -*- mode: snippet -*-
-# uuid: 65bc7baa-3368-4398-a208-fb1d92694183
-# contributor: Jimmy Yuen Ho Wong <wyuenho@gmail.com>
+# contributor: David Mynors <hello@davidmyno.rs>
 # name: reactFunctionalComponent
 # key: rfc
 # --
 
-import React from 'react'
+import React from "react"
 
-export default function ${1:${TM_FILENAME_BASE}}() {
+const ${1:${Component}} = () => {
   return (
     <div>
       $0
     </div>
   )
 }
+
+export default Component

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: David Mynors <hello@davidmyno.rs>
+# name: import React
+# key: ir
+# --
+
+import React from 'react'
