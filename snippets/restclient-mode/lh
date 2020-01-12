@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: David Mynors <hello@davidmyno.rs>
+# name: localhost
+# key: lh
+# --
+
+http://localhost:$1

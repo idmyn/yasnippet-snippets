@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# contributor: David Mynors <hello@davidmyno.rs>
+# name: Content-Type: application/json
+# key: json
+# --
+
+Content-Type: application/json
+
+{
+    $0
+}
